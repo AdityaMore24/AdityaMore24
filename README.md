@@ -18,7 +18,6 @@
 <a href="https://twitter.com/moreaditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moreaditya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aditya more" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya more" height="30" width="40" /></a>
 <a href="https://instagram.com/adi.more.07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adi.more.07" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/adityamore24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adityamore24" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/adityamore24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adityamore24" height="30" width="40" /></a>
 </p>
 
