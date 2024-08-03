@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my DSA Skills**
 
-- 🌱 I’m currently learning **Java Spring boot and React JS**
+- 🌱 I’m currently learning **Java Spring boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AdityaMore24](https://github.com/AdityaMore24)
 
